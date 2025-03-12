@@ -53,4 +53,4 @@ The implementation consists of the following steps:
 - Siddhartha Rao
 
 ## Team Name
-~ quantum-bun-samosa ~ 
+ quantum-bun-samosa
